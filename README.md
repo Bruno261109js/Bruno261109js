@@ -8,8 +8,8 @@
  - 😄 Pronomes: Ele/Dele
  - 🙃 Fato Aleatório: Abelhas sentem sabor com os pézinhos
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bruno261109js&show_icons=true&theme=radical"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno261109js&langs_count=168_theme=radical"></img>
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=Bruno261109js&show_icons=true&theme=dracula"></img>
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno261109js&langs_count=168&theme=dracula"></img>
 
 <a href="mailto:brunofrancabenevides@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></img></a>
 <a href="https://api.whatsapp.com/send?phone=554791543492"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
