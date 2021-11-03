@@ -1,7 +1,6 @@
 ### Olá Pessoal! 👋
 
 
- - 🍜: Fã da cultura Japônesa
  - 💬: Sobre mim: Meu nome é Bruno, Moro em Goiânia-GO Tenho 11 anos de idade, A coisa q eu mais gosto de fazer é programar
  - 👨🏻‍💻: Front-End
  - 📫 Email: brunofrancabenevidesnunes@gmail.com
@@ -18,4 +17,3 @@
 <a href="https://www.tiktok.com/@brunothecoder?lang=pt-BR/"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></img></a>
 <a href="https://instagram.com/brunofrancabene/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 
-<img height="250" src="https://media.discordapp.net/attachments/878442490515058731/878456181931245598/Webp.net-gifmaker.gif"></img>
