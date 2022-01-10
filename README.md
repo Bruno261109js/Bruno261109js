@@ -1,7 +1,7 @@
 ### Olá Pessoal! 👋
 
 
- - 💬: Sobre mim: Meu nome é Bruno, Moro em Goiânia-GO Tenho 11 anos de idade, A coisa q eu mais gosto de fazer é programar
+ - 💬: Sobre mim: Meu nome é Bruno, Moro em Goiânia-GO Tenho 12 anos de idade, Gosto de: ler, programar
  - 👨🏻‍💻: Front-End
  - 📫 Email: brunofrancabenevidesnunes@gmail.com
  - 😄 Pronomes: Ele/Dele
