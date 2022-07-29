@@ -1,6 +1,6 @@
-### Oieee! 😄
+### Aoba! 🤠
 
- - 💬: Sobre mim: Meu nome é Bruno, Moro em Goiânia-GO Tenho 12 anos de idade, Gosto de: ler, programar
+ - 💬: Sobre mim: Meu nome é Bruno, Moro em Goiânia-GO Tenho 12 anos de idade, Gosto de: ler, codar
  - 👨🏻‍💻: Python\Javascript
  - 📫 Email: brunofrancabenevidesnunes@gmail.com
  - 😄 Pronomes: Ele/Dele
