@@ -1,6 +1,6 @@
 ### Aoba! 🤠
 
- - 💬: Sobre mim: Meu nome é Bruno, Moro em Goiânia-GO Tenho 12 anos de idade, Gosto de: ler, codar
+ - 💬: Sobre mim: Meu nome é Bruno, Moro em Goiânia-GO Tenho 13 anos de idade, Gosto de: ler, codar
  - 👨🏻‍💻: Python\Javascript
  - 📫 Email: brunofrancabenevidesnunes@gmail.com
  - 🙃 Fato Aleatório: Abelhas sentem sabor com os pézinhos
