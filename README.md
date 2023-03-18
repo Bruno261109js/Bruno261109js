@@ -3,7 +3,6 @@
  - 💬: Sobre mim: Meu nome é Bruno, Moro em Goiânia-GO Tenho 12 anos de idade, Gosto de: ler, codar
  - 👨🏻‍💻: Python\Javascript
  - 📫 Email: brunofrancabenevidesnunes@gmail.com
- - 😄 Pronomes: Ele/Dele
  - 🙃 Fato Aleatório: Abelhas sentem sabor com os pézinhos
 
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=BrunoNun3s&show_icons=true&theme=dracula"></img>
