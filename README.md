@@ -1,9 +1,10 @@
 ### Aoba! 🤠
 
- - 💬: Sobre mim: Meu nome é Bruno, Moro em Goiânia-GO Tenho 13 anos de idade, Gosto de: ler, codar
- - 👨🏻‍💻: Python\Javascript
+ - 💬 Sobre mim: Meu nome é Bruno, Moro em Goiânia-GO Tenho 13 anos de idade, Gosto de: ler, codar
+ - 👨🏻‍💻 Python\Javascript\Html\Css
  - 📫 Email: brunofrancabenevidesnunes@gmail.com
- - 🙃 Fato Aleatório: Abelhas sentem sabor com os pézinhos
+ - 🙃 Fato Aleatório: Abelhas sentem sabor com os pés 
+ - 🤖 Programador da equipe The Dragons🐉
 
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=BrunoNun3s&show_icons=true&theme=dracula"></img>
 <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNun3s&langs_count=168&theme=dracula"></img>
